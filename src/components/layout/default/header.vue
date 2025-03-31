@@ -1,3 +1,3 @@
 <template>
-  <header>milu</header>
+  <header>LostElk</header>
 </template>

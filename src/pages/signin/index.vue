@@ -6,4 +6,11 @@
 definePageMeta({
   layout: 'blank',
 });
+
+/**
+ * 页头
+ */
+useHead({
+  title: '登录',
+});
 </script>
