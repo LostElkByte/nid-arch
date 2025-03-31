@@ -1,8 +1,8 @@
 <template>
   <div>
-    <header>LOSTELK</header>
-    <main>
+    <LayoutDefaultHeader></LayoutDefaultHeader>
+    <LayoutDefaultMain>
       <slot></slot>
-    </main>
+    </LayoutDefaultMain>
   </div>
 </template>
