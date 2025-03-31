@@ -10,7 +10,14 @@ export default defineNuxtConfig({
   /**
    * 模块
    */
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
+
+  /**
+   * 颜色模式
+   */
+  colorMode: {
+    classSuffix: '',
+  },
 
   /**
    * 配置
